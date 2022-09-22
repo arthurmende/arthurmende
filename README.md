@@ -1,7 +1,7 @@
-- 👋 oi, eu sou o @arthurmende
+- 👋 oi, eu sou o @mendes.oliveira.arthur@escola.pr.gov.br
 - 👀 meu interesse é a academia.
 - 🌱 estou no ensino medio então estou aprendendo as materias do ensino medio, fisica, quima etc...
-- 💞️ fiz o meu personagem fazer um gol.
+- 💞️ fiz o meu personagem fazer um gol, ele estava no meio de campo e fez o gol.
 - 📫 é so ir na academia, passo a maior parte do meu dia la.
 
 <!---
